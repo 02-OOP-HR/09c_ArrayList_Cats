@@ -23,7 +23,7 @@ public class App {
 		// for (int i = 0; i < 4; i++) 
 		{
 			objList.add(new Cat(nameArr[i]));
-			output("Cats: " + objList);
+			// output("Cats: " + objList);
 
 			// objList.add(new Cat("someone_" + i));
 		
